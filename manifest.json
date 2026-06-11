@@ -1,0 +1,27 @@
+{
+  "name": "Tartaruga do Mar",
+  "short_name": "TartarugaMar",
+  "description": "Jogo da tartaruga no fundo do mar – guie a tartaruga e colete peixinhos!",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0a2a4a",
+  "theme_color": "#0a2a4a",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "lang": "pt-BR"
+}
