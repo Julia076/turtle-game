@@ -2,13 +2,13 @@
 
 Jogo estilo Snake com tema fundo do mar, desenvolvido como PWA (Progressive Web App) para a disciplina de **Programação para Dispositivos Móveis**.
 
-## 🎮 Como Jogar
+## Como Jogar
 
 - Guie a tartaruga para coletar peixinhos e outros frutos do mar
 - Evite bater nas paredes ou na própria cauda
 - Cada item tem uma pontuação diferente: 🐟 +1, 🦐 +2, 🦑 +3, 🐙 +5
 
-## 🌊 Níveis
+## Níveis
 
 | Nível | Velocidade | Comida |
 |-------|-----------|--------|
@@ -16,20 +16,20 @@ Jogo estilo Snake com tema fundo do mar, desenvolvido como PWA (Progressive Web 
 | 🐡 Médio | Normal | 2 itens |
 | 🦈 Difícil | Rápida | 1 item |
 
-## 📱 Controles
+## Controles
 
 - **Mobile:** D-pad na tela ou deslize o dedo (swipe)
 - **Desktop:** Setas do teclado ou WASD
 - **Pausa:** Botão ⏸ ou tecla `P`/`Esc`
 
-## 🚀 Instalação como PWA
+## Instalação como PWA
 
 1. Acesse o link do GitHub Pages
 2. No Android (Chrome): toque em **"Adicionar à tela inicial"**
 3. No iOS (Safari): toque em **Compartilhar → Tela de Início**
 4. O jogo funciona **offline** após a primeira carga!
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML5 Canvas
 - CSS3 (variáveis, animations, backdrop-filter)
@@ -40,7 +40,7 @@ Jogo estilo Snake com tema fundo do mar, desenvolvido como PWA (Progressive Web 
 ## 📁 Estrutura
 
 ```
-turtle-sea-game/
+turtle-game/
 ├── index.html        # Jogo completo
 ├── manifest.json     # Configuração PWA
 ├── sw.js             # Service Worker (offline)
@@ -55,8 +55,7 @@ turtle-sea-game/
 2. Faça upload de todos os arquivos
 3. Vá em **Settings → Pages → Branch: main → / (root)**
 4. Aguarde alguns minutos
-5. Acesse: `https://SEU_USUARIO.github.io/turtle-sea-game`
+5. Acesse: `https://julia076.github.io/turtle-game/`
 
-## 📝 Desenvolvido por
 
-[Seu Nome] — Programação para Dispositivos Móveis
+Júlia Monteiro Rodrigues — Programação para Dispositivos Móveis
